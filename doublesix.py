@@ -1,6 +1,7 @@
-# One of the most influential figures in the history of probability theory was Blaise Pascal. His interest in the field began when a friend asked him the following question:
+# One of the most influential figures in the history of probability theory was Blaise Pascal. 
+# His interest in the field began when a friend asked him the following question:
 # "Would it be profitable given 24 rolls of a pair of fair dice to bet against there being at least one double six?"
-# Write a function that uses Monte Carlo to simulate the probability of getting a pair of 6's within twenty-four rolls of a pair of dice.
+# The following function uses Monte Carlo to simulate the probability of getting a pair of 6's within twenty-four rolls of a pair of dice.
 
 
 
